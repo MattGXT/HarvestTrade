@@ -1,0 +1,223 @@
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个施法词缀 Reforge Caster
+给非影响效果物品移除一个随机非施法词缀，再给它添加一个新施法词缀 Remove non-Caster Add Caster
+用一个新施法词缀增幅非影响效果魔法物品或稀有物品 Augment Caster (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个施法词缀。施法词缀更常见 Reforge Caster More Common
+用一个带有幸运数值的新施法词缀增幅非影响效果魔法物品或稀有物品 Augment Caster Lucky (non-influenced)
+
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个物理词缀 Reforge Physical
+给非影响效果物品移除一个随机非物理词缀，再给它添加一个新物理词缀 Remove non-Physical Add Physical
+用一个新物理词缀增幅一个非影响效果魔法物品或稀有物品 Augment Physical (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个物理词缀。物理词缀更常见 Reforge Physical More Common
+用一个带有幸运数值的新物理词缀增幅非影响效果魔法物品或稀有物品 Augment Physical Lucky (non-influenced)
+
+将物品上一个非红色插槽重铸为红色 Non-Red into Red
+将物品上一个非蓝色插槽重铸为蓝色 Non-Blue into Blue
+将物品上一个非绿色插槽重铸为绿色 Non-Green into Green
+将物品上两个随机插槽颜色重铸为红色和蓝色 Reforge two random Red and Blue
+将物品上两个随机插槽颜色重铸为红色和绿色 Reforge two random Red and Green
+将物品上两个随机插槽颜色重铸为蓝色和绿色 Reforge two random Blue and Green
+将物品上三个随机插槽颜色重铸为红色、蓝色和绿色 Reforge three random Red, Blue and Green
+将物品上一个随机插槽颜色重铸为白色 Reforge into White Socket
+
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个火焰词缀 Reforge Fire
+给非影响效果物品移除一个随机非火焰词缀，再给它添加一个新火焰词缀 Remove non-Fire Add Fire
+用一个新火焰词缀增幅一个非影响效果魔法物品或稀有物品 Augment Fire (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个火焰词缀。火焰词缀更常见 Reforge Fire More Common
+用一个带有幸运数值的新火焰词缀增幅非影响效果魔法物品或稀有物品 Augment Fire Lucky (non-influenced)
+
+重铸物品上的插槽数10次，最终取插槽数最多的那次结果 Reforge number of sockets 10 times
+重铸物品上插槽间的连接10次，最终取连接插槽数最多的那次结果 Reforge links 10 times
+C重铸物品上的插槽颜色10次，最终取不常见的插槽颜色最多的那次结果 Reforge colours of sockets 10 times
+使药剂品质提升至少10%。对低品质药剂效果更佳。最大能提高到 20% Improves Quality of a Flask
+使技能石品质提升至少10%。最大能提高到20% Improves Quality of a Gem
+给升级普通物品升级随机稀有度10次。最终取稀有度最高的那次结果 Upgrades Normal to a random rarity 10 times
+用新随机词缀重铸稀有物品10次。最终取平均词缀等级最高的那次结果 Reforge Rare 10 times
+腐化物品10次，或直到获得一个腐化的基底词缀 Corrupt item 10 times
+
+将一个提供火焰抗性的词缀变为近似位阶，但提供冰霜抗性的词缀 Fire to Cold Resist
+将一个提供冰霜抗性的词缀变为近似位阶，但提供闪电抗性的词缀 Cold to Lightning Resist
+将一个提供闪电抗性的词缀变为近似位阶，但提供火焰抗性的词缀 Lightning to Fire Resist
+将一个提供火焰抗性的词缀变为近似位阶，但提供闪电抗性的词缀 Fire to Lightning Resist
+将一个提供冰霜抗性的词缀变为近似位阶，但提供火焰抗性的词缀 Cold to Fire Resist
+将一个提供闪电抗性的词缀变为近似位阶，但提供冰霜抗性的词缀 Lightning to Cold Resist
+
+将一叠化石变为另一种不同种类的化石。新化石的数量会变少。 Change stack of Fossils
+将一叠精华变为另一种不同种类但位阶相同的精华 Change stack of Essences
+将一叠雾魇宝珠变为不同种类的雾魇宝珠 Change stack of Delirium Orbs
+将一叠圣油变为另一种颜色的圣油 Change stack of Oils
+将一叠催化剂变为另一种不同种类的催化剂 Change stack of Catalysts
+
+重铸一个稀有物品，保留所有前缀 Reforge keep prefix
+重铸一个稀有物品，保留所有后缀 Reforge keep suffix
+重铸一个稀有物品，大概率不会得到相同类型词缀 Reforge more likely
+重铸一个稀有物品，大概率会得到相同类型词缀 Reforge less likely
+
+附魔武器。使品质不提高物理伤害，改为每4%品质使暴击率提高1% Enchant Weapon, Critical Strike Chance
+附魔武器。使品质不提高物理伤害，改为每2%品质使命中值提高1% Enchant Weapon, Accuracy
+附魔武器。使品质不提高物理伤害，改为每8%品质使攻击速度加快1% Enchant Weapon, Attack Speed
+附魔近战武器。使品质不提高物理伤害，改为每10%品质+1武器范围 Enchant Weapon, Weapon Range
+附魔武器。使品质不提高物理伤害，改为每2%品质使元素伤害提高1% Enchant Weapon, Elemental Damage
+附魔武器。使品质不提高物理伤害，改为每4%品质使效果区域扩大1% Enchant Weapon, Area of Effect
+
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个攻击词缀 Reforge Attack
+给非影响效果物品移除一个随机非攻击词缀，再给它添加一个新攻击词缀 Remove non-Attack Add Attack
+用一个新攻击词缀增幅一个非影响效果魔法物品或稀有物品 Augment Attack (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个攻击词缀。攻击词缀更常见 Reforge Attack More Common
+用一个带有幸运数值的新攻击词缀增幅非影响效果魔法物品或稀有物品 Augment Attack Lucky (non-influenced)
+
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个生命词缀 Reforge Life
+给非影响效果物品移除一个随机非生命词缀，再给它添加一个新生命词缀 Remove non-Life Add Life
+用一个生命词缀增幅非影响效果魔法物品或稀有物品 Augment Life (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个生命词缀。生命词缀更常见 Reforge Life More Common
+用一个带有幸运数值的生命词缀增幅非影响效果魔法物品或稀有物品 Augment Life Lucky (non-influenced)
+
+使物品变为三个插槽 3 sockets
+使物品变为四个插槽 4 sockets
+使物品变为五个插槽 5 sockets
+使物品变为六个插槽 6 sockets
+
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个冰霜词缀 Reforge Cold
+给非影响效果物品移除一个随机非冰霜词缀，再给它添加一个新冰霜词缀 Remove non-Cold Add Cold
+用一个新冰霜词缀增幅非影响效果魔法物品或稀有物品 Augment Cold (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个冰霜词缀。冰霜词缀更常见 Reforge Cold More Common
+用一个带有幸运数值的新冰霜词缀增幅非影响效果魔法物品或稀有物品 Augment Cold Lucky (non-influenced)
+
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个速度词缀 Reforge Speed
+给非影响效果物品移除一个随机非速度词缀，再给它添加一个新速度词缀 Remove non-Speed Add Speed
+用一个新速度词缀增幅一个非影响效果魔法物品或稀有物品 Augment Speed (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个速度词缀。速度词缀更常见 Reforge Speed More Common
+用一个带有幸运数值的新速度词缀增幅非影响效果魔法物品或稀有物品 Augment Speed Lucky (non-influenced)
+
+将技能石变为另一个技能石，尽可能保留经验和品质 Change Gem into another Gem
+献祭腐化的技能石，获得其20%品质的宝石匠的允诺 Sacrifice Corrupted Gem - 20% as Gemcutter's Prisms
+献祭腐化的技能石，获得其30%品质的宝石匠的允诺 Sacrifice Corrupted Gem - 30% as Gemcutter's Prisms
+献祭腐化的技能石，获得其40%品质的宝石匠的允诺 Sacrifice Corrupted Gem - 40% as Gemcutter's Prisms
+献祭腐化的技能石，获得其50%品质的宝石匠的允诺 Sacrifice Corrupted Gem - 50% as Gemcutter's Prisms
+献祭腐化的技能石，获得其总存量经验20%的费斯特的透镜 Sacrifice Corrupted Gem - 20% as Facetor's Lens
+献祭腐化的技能石，获得其总存量经验30%的费斯特的透镜 Sacrifice Corrupted Gem - 30% as Facetor's Lens
+献祭腐化的技能石，获得其总存量经验40%的费斯特的透镜 Sacrifice Corrupted Gem - 40% as Facetor's Lens
+献祭腐化的技能石，获其总存量经验50%的费斯特的透镜 Sacrifice Corrupted Gem - 50% as Facetor's Lens
+将可以强化的20级辅助宝石变为强化辅助宝石，其概率为5%。如强化未能成功，则将其摧毁 Awaken Level 20 Support Gem
+
+将地图变为另一张位阶相同，但尚未完成的权重优先地图 Change Map into another Map
+献祭地图，将它分裂成数张低一阶的地图 Sacrifice Map - multiple Maps one tier lower
+献祭一张腐化的地图，生成一张相同位阶的新地图。Sacrifice Corrupted Map into same tier and rarity Map
+
+给一个钴蓝、赤红、棱光、翠绿、三相珠宝设置一个新基底词缀 Implicit modifier on Basic Jewel
+给一个深渊珠宝或永恒珠宝设置一个基底词缀 Implicit modifier on Abyss or Timeless Jewel
+给一个星团珠宝设置一个基底词缀 Implicit modifier on Cluster Jewel
+
+用一个延长持续时间的词缀附魔药剂。该效果随使用次数减弱 Enchant Flask: increased Duration
+用一个提高效果的词缀附魔药剂。该效果随使用次数减弱 Enchant Flask: increased Effect
+用一个增加最大使用次数的词缀附魔药剂。该效果随使用次数减弱 Enchant Flask: increased Maximum Charges
+用一个减少使用次数的词缀附魔药剂。该效果随使用次数减弱 Enchant Flask: reduced Charges used
+
+给非传奇地图附魔：“从奇拉克工艺工作台得到的地图额外有一个随机词缀” Enchant Map: random Modifier
+给非传奇地图附魔：地图不消耗六分仪使用次数 Enchant Map: doesn't consume Sextant
+给非传奇地图附魔：地图具有腐化区域 Enchant Map: Vaal Side Area
+给非传奇地图附魔：地图首领被罪魂环绕 Enchant Map: Tormented Spirits
+
+升级一个精华的位阶 Upgrade the tier of an Essence
+用共振器交换化石，反之亦然。稀有度越高，结果就越稀有 Exchange a Resonator for a Fossil or vice versa
+将一个圣油升级成更高阶圣油 Upgrade the tier of an Oil
+将一个制箱岩升级升级成灌注的制箱岩 Upgrade Engineer's Orb
+
+将圣甲虫变为另一个相同稀有度的圣甲虫 Change a Scarab to another
+尝试升级一个圣甲虫，使其有一定几率变成有翼的圣甲虫 Attempt to upgrade a Scarab
+将圣甲虫分裂成两个稀有度更低的圣甲虫 Split Scarab
+
+将一个女神祭品变为女神贡品 Change Offering to the Goddess into Tribute to the Goddess
+将一个女神祭品变为女神之礼 Change Offering to the Goddess into Gift to the Goddess
+将一个女神祭品变为女神祭献 Change Offering to the Goddess into Dedication to the Goddess
+
+用一个随机忆境基底合成物品。不能用于传奇物品、影响效果物品、虚空忆境物品、分裂过的物品 Synthesise an item
+
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个防御词缀 Reforge Defence
+给非影响效果物品移除一个随机非防御词缀，再给它添加一个新防御词缀 Remove non-Defence Add Defence
+用一个防御词缀增幅非影响效果魔法物品或稀有物品 Augment Defence (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个防御词缀。防御词缀更常见 Reforge Defence More Common
+用一个带有幸运数值的防御词缀增幅非影响效果魔法物品或稀有物品 Augment Defence Lucky (non-influenced)
+
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个闪电词缀 Reforge Lightning
+给非影响效果物品移除一个随机非闪电词缀，再给它添加一个新闪电词缀 Remove non-Lightning Add Lightning
+用一个闪电词缀增幅非影响效果魔法物品或稀有物品 Augment Lightning (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个闪电词缀。闪电词缀更常见 Reforge Lightning More Common
+用一个带有幸运数值的闪电词缀增幅非影响效果魔法物品或稀有物品 Augment Lightning Lucky (non-influenced)
+
+重铸一个物品上插槽间的连接，连接三个插槽 3 link (Three link)
+重铸一个物品上插槽间的连接，连接四个插槽 4 link (Four link)
+重铸一个物品上插槽间的连接，连接五个插槽 5 link (Five link)
+重铸一个物品上插槽间的连接，连接六个插槽 6 link (Six link)
+
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个混沌词缀 Reforge Chaos
+给非影响效果物品移除一个随机非混沌词缀，再给它添加一个新混沌词缀 Remove non-Chaos Add Chaos
+用一个混沌词缀增幅非影响效果魔法物品或稀有物品 Augment Chaos (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个混沌词缀。混沌词缀更常见 Reforge Chaos More Common
+用一个带有幸运数值的混沌词缀增幅非影响效果魔法物品或稀有物品 Augment Chaos Lucky (non-influenced)
+
+将传奇物品变为另一个随机传奇物品 Change a Unique item into another random Unique item
+将传奇物品变成一件随机传奇武器或箭袋 Change a Unique into a random Unique Weapon or Quiver
+将传奇物品变成一件随机传奇护甲 Change a Unique into a random Unique Armour
+将传奇物品变成一件随机传奇戒指、护身符或腰带 Change a Unique into a random Unique Ring, Amulet or Belt
+将传奇武器变成另一件同类型传奇武器 Change a Unique Weapon into another Unique Weapon of that weapon type
+将传奇护甲护甲变成另一件同类型传奇护甲 Change a Unique Armour into another Unique Armour of that type
+将传奇戒指、护身符、腰带变成另一件同类型传奇物品 Change a Unique Ring, Amulet or Belt into another Unique item of that type
+将传奇珠宝变成为另一种传奇珠宝。 Change a Unique Jewel into another Unique Jewel
+
+将一个命运卡变为另一个随机命运卡 Change Divination Card to another
+献祭最多半叠命运卡，相同命运卡的数量可能为 0，也可能翻倍 Sacrifice Divination Card 0-2x
+献祭一叠命运卡，换取另一叠数量相同的不同命运卡 Sacrifice stack of Divination Cards to others
+
+将一个祭品或凡人碎片变为另一件同类型的随机碎片 Change Sacrifice or Mortal Fragment into another
+将一个塑界者碎片变成另一个随机塑界者碎片 Change Shaper Fragment into another
+将一个裂界者碎片变为另一件同类型的随机裂界者碎片 Change Elder Fragment into another
+将一个征服者碎片变为另一件同类型的随机碎片 Change Conqueror Fragment into another
+
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个暴击词缀 Reforge Critical
+给非影响效果物品移除一个随机非暴击词缀，再给它添加一个新暴击词缀 Remove non-Chaos Add Critical 
+用一个暴击词缀增幅非影响效果魔法物品或稀有物品 Augment Critical (non-influenced)
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个暴击词缀。暴击词缀更常见 Reforge Critical More Common
+用一个带有幸运数值的暴击词缀增幅非影响效果魔法物品或稀有物品 Augment Critical Lucky (non-influenced)
+
+将魔法物品升级为稀有物品，增加两个随机词缀 Upgrade Magic to Rare adding 2 mods
+将魔法物品升级为稀有物品，增加三个随机词缀 Upgrade Magic to Rare adding 3 mods
+将魔法物品升级为稀有物品，增加四个随机词缀 Upgrade Magic to Rare adding 4 mods
+将普通物品升级为魔法物品，增加一个随机高阶词缀 Upgrade Magic to Rare adding high-tier mod
+将普通物品升级为魔法物品，增加两个随机高阶词缀 Upgrade Normal to Magic adding 2 high-tier mods
+将魔法物品升级为稀有物品，增加两个随机高阶词缀 Upgrade Magic to Rare adding 2 high-tier mods
+将魔法物品升级为稀有物品，增加三个随机高阶词缀 Upgrade Magic to Rare adding 3 high-tier mods
+将魔法物品升级为稀有物品，增加四个随机高阶词缀 Upgrade Magic to Rare adding 4 high-tier mods
+
+重铸具有幸运词缀数值的稀有物品，保留所有前缀 Reforge keep prefix lucky
+重铸具有幸运词缀数值的稀有物品，保留所有后缀 Reforge keep suffix lucky
+重置具有幸运词缀数值的稀有物品的前缀、后缀、基底词缀的数值 Reroll all lucky
+用一个新词缀增幅非影响效果稀有物品，使其具有幸运词缀 Augment Non-Influence lucky
+重置具有幸运词缀数值的魔法物品或稀有物品的前缀数值 Reroll prefix lucky
+重置具有幸运词缀数值的魔法物品或稀有物品的后缀数值 Reroll suffix lucky
+
+将一叠裂隙碎片或普通的、充能的、强化的、纯粹的裂隙石变为另一种类型的裂片或裂隙石 Change Breach Splinters
+将一叠永恒裂片或永恒印记变为另一种类型的裂片或印记 Change Timeless Splinters
+
+将传奇猎魔物品或势类物品变为相同族群的诱饵 Change Unique Bestiary item or item with Aspect into Lures
+将一个先驱者传奇物品或传奇碎片变为一个随机降临之地地图 Change Harbinger Unique or Piece into Beachhead Map
+
+随机改变有影响效果的普通、魔法、稀有武器或箭袋的影响效果类型，同时给它重铸一个新随机词缀 Randomise Influence Weapon or Quiver
+随机改变有影响效果的普通、魔法、稀有护甲的影响效果类型，同时给它重铸一个新随机词缀 Randomise Influence Armour or Quiver
+随机改变有影响效果的普通、魔法、稀有饰品的影响效果类型，同时给它重铸一个新随机词缀 Randomise Influence Jewellery or Quiver
+
+附魔身体装备。使品质不提高防御属性，改为每2%品质+1生命上限 Enchant Body: Maximum Life
+附魔身体装备。使品质不提高防御属性，改为每2%品质+1魔力上限 Enchant Body: Maximum Mana
+附魔身体装备。使品质不提高防御属性，改为每2%品质+1力量 Enchant Body: Strength
+附魔身体装备。使品质不提高防御属性，改为每2%品质+1敏捷 Enchant Body: Dexterity
+附魔身体装备。使品质不提高防御属性，改为每2%品质+1智慧 Enchant Body: Intelligence
+附魔身体装备。使品质不提高防御属性，改为每2%品质提供1%火焰抗性 Enchant Body: Fire Resis
+附魔身体装备。使品质不提高防御属性，改为每2%品质提供1%冰霜抗性 Enchant Body: Cold Resis
+附魔身体装备。使品质不提高防御属性，改为每2%品质提供1%闪电抗性 Enchant Body: Lightning Resis
+
+给物品移除一个随机非影响效果词缀，再给它添加一个新影响效果词缀 Remove Non-Influence Add Influence
+用一个新影响效果词缀增幅魔法物品或稀有物品 Augment Influence
+给物品移除一个随机影响效果词缀 Remove random Influence
+随机改变魔法物品或稀有物品上随机影响效果词缀的属性数值 Randomise values of Influence mods
+给物品移除一个随机影响效果词缀，再给它添加一个新影响效果词缀 Remove Influence Add Influence
+将普通物品、魔法物品或稀有物品重铸成有随机词缀的稀有物品，其中包括一个影响效果词缀。影响效果词缀更常见 Reforge Influence More Common
+用一个带有幸运数值的新影响效果词缀增幅魔法物品或稀有物品 Augment Influence lucky
